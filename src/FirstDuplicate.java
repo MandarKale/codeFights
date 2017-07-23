@@ -9,7 +9,7 @@ public class FirstDuplicate {
 	public static void main(String[] args) {
 		int [] p = {1, 1, 2, 2, 1};
 		int [] q = {2, 3, 3, 1, 5, 2};
-		System.out.println(firstDuplicate(q));
+		System.out.println(firstD(q));
 	}
 	
 	static int firstD(int[] a) {
